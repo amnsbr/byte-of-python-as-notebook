@@ -12,3 +12,4 @@ byte-of-python.pdf
 package-lock.json
 package.json
 public
+.ipynb_checkpoints/
